@@ -2,7 +2,7 @@
 # Data Pre-processing Project Tutorial
 <!-- endhide -->
 
-- Download the New York Airbnb data from Kaggle.com (Find the direct link below)
+- Download the New York Airbnb data. You can access the file in the current folder or you can load it directly from the link provided on the instructions below.
 - Do as much exploratory data analysis as you can to find patterns and get insights from the data.
 - Use your explore notebook to try different cleaning methods.
 - Once you have your final cleaning process, use your app.py file to create a pipeline that cleans your data.
