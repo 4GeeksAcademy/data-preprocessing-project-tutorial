@@ -28,7 +28,7 @@ Ahora lo utilizaremos para llevar a cabo un estudio acerca de las variables que 
 
 #### Paso 1: Carga del conjunto de datos
 
-Puedes descargar el conjunto de datos directamente desde Kaggle.com o en el siguiente enlace: `https://raw.githubusercontent.com/4GeeksAcademy/data-preprocessing-project-tutorial/main/AB_NYC_2019.csv`. Almacena los datos en crudo en la carpeta `./data/raw`.
+Puedes descargar el conjunto de datos diréctamente desde Kaggle.com o en el siguiente enlace: `https://raw.githubusercontent.com/4GeeksAcademy/data-preprocessing-project-tutorial/main/AB_NYC_2019.csv`. Almacena los datos en crudo en la carpeta `./data/raw`.
 
 #### Paso 2: Realiza un EDA completo
 
